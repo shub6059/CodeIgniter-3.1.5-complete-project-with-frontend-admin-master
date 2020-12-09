@@ -131,15 +131,15 @@
 	Run The Project - 	
 	Front - localhost/{projectname}				
 	Admin Backend - localhost/{projectname}/administrator		
-			Admin UserName - ynandan55@gmail.com		
+			Admin UserName - shub6059@gmail.com		
 			      Password - 123456		
 	
 	
 
 
-**Note:-** This product developed by Yadu Nandan Kushwaha .. 
+**Note:-** This product developed by shubham .. 
 
-	   Please contact if having any query. Mail to – ynandan55@gmail.com || https://github.com/yadunandankushwaha 
+	   Please contact if having any query. Mail to – shub6059@gmail.com || https://github.com/shub6059 
 	   
 
 	
